@@ -1,0 +1,23 @@
+        body {
+            font-family:sans-serif;
+            font-size:20px;
+            margin:30px;
+        }
+        span {
+            color:red;
+            font-style:italic;   
+        }
+        #initialScreen{
+            background-color:aqua;
+            font-size:12;
+            padding:20px;
+        }
+        #afterScreen{
+            background-color:yellowgreen;
+            font-size: 20;
+            display:none;
+            padding:20px;
+        }
+        #btnChange{
+            display:none;
+        }
